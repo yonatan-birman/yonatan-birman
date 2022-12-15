@@ -7,7 +7,7 @@
 <br>
 
 - A passionate B.Sc student from Israel
-- I work as a tutor at the college of management
+- I work as a tutor at The College of Management
 - Playing CTF's at spare time
 - Currently working on my operating system project - BirOS
 - How to reach me jonatanbir10@gmail.com
